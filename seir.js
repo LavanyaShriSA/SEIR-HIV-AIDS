@@ -602,9 +602,6 @@ function generateGraph() {
         document.getElementById("graph-top").style.display = "block";
         document.getElementById("graph-bottom").style.display = "none";
 
-        document.getElementById("graph-outer-top").style.height = "350px";
-        document.getElementById("graph-outer-bottom").style.height = "350px";
-
         comment = "The graph shows the variation of class values with time.";
 
 
