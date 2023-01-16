@@ -1,0 +1,187 @@
+
+.default-parameter {
+    height : 100%;
+    width : 25%;
+}
+
+html, body .inner, .outer {
+    height:100%;
+    width:100%;
+    background-color: #eaece4;
+}
+
+.custom-background {
+    background-color: #eaece4;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: medium
+}
+
+.left-section {
+    padding-top:20px !important ;
+    width:30%;
+    height:100%;
+    border-right: 0.5px solid black;
+    border-top: 0.5px solid black;
+    border-bottom: 0.5px solid black;
+}
+
+.middle-section {
+    padding-top:20px !important;
+    width:30%;
+    height: 200px;
+    border-right: 0.5px solid black;
+    border-top: 0.5px solid black;
+    border-bottom: 0.5px solid black;
+}
+
+.right-section {
+    width:40%;
+    height: 200px;
+    border-top: 0.5px solid black;
+    border-bottom: 0.5px solid black;
+}
+/*
+.graph-section {
+    border-top: 0.5px solid black;
+    border-bottom: 0.5px solid black;
+} */
+
+.section {
+    padding:10px;
+    vertical-align: top;
+}
+
+.dropdown-parameter {
+    width:70%;
+}
+
+.parameter-values {
+    width:50% !important;
+}
+
+.class-values {
+    width:75px;
+    margin-left:5px;
+}
+
+.hide {
+    display: none;
+}
+
+.stack {
+    margin-top : 10px;
+}
+
+.graph-outer {
+    height: 350px;
+}
+
+.graph-item {
+    height : 100%;
+}
+
+.input-border {
+    border-width: medium;
+    border-style: solid;
+}
+
+.border-red {
+    border-color: red;
+}
+
+.border-blue {
+    border-color : blue;
+}
+
+.border-green {
+    border-color : green;
+}
+
+.border-black {
+    border-color : black;
+}
+
+.border-orange {
+    border-color : orange;
+}
+
+.border-brown {
+    border-color:  brown;
+}
+
+.border-violet {
+    border-color: violet;
+}
+
+.border-cyan {
+    border-color: cyan;
+}
+
+.border-attractor-red {
+    border-color: red;
+    border-width: medium;
+    border-style: solid;
+}
+
+.border-attractor-blue {
+    border-color: blue;
+    border-width: medium;
+    border-style: solid;
+}
+
+.border-attractor-green {
+    border-color: green;
+    border-width: medium;
+    border-style: solid;
+}
+
+.text-red {
+    color : red;
+}
+.class-name {
+    width : 100px;
+}
+
+.align-center {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.footer {
+    width : 100%;
+}
+
+.left-footer {
+    width : 35%;
+    padding-top: 5px;
+}
+
+.middle-left-footer {
+    width : 20%;
+}
+
+.middle-right-footer {
+    width: 10%;
+}
+
+.right-footer {
+    width : 35%;
+    padding-top: 5px;
+}
+
+.team {
+    border: 0.5px solid black;
+}
+
+.team-names {
+    font-size: small;
+}
+
+.comment {
+    padding-top: 20px;
+}
